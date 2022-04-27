@@ -1,4 +1,4 @@
-# eLearn Certified Junior Penetration Tester - eJPT(Cheat sheet) 
+# eLearn Certified Junior Penetration Tester - eJPT(Guide) 
 # Author - Aditya Raj - th3-v3ng34nc3 
  # Guide for eJPT exam 
    ![alt text](https://pbs.twimg.com/media/E5riuDoUcAMlD7o?format=jpg&name=medium)
